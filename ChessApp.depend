@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1486496474 source:f:\personal\projects\programming\codeblocks projects\chessprogr\chessapp\main.cpp
+	<iostream>
+	"F:\Personal\Projects\Programming\CodeBlocks Projects\ChessProgr\ChessApp\ChessBoard.h"
+	<cmath>
+	<Windows.h>
+	<sstream>
+	"F:\Personal\Projects\Programming\CodeBlocks Projects\ChessProgr\ChessApp\include\Piece.h"
+
+1483807082 f:\personal\projects\programming\codeblocks projects\chessprogr\chessapp\chessboard.h
+	<string>
+	<string.h>
+	"F:\Personal\Projects\Programming\CodeBlocks Projects\ChessProgr\ChessApp\include\Piece.h"
+
+1483807147 source:f:\personal\projects\programming\codeblocks projects\chessprogr\chessapp\chessboard.cpp
+	"F:\Personal\Projects\Programming\CodeBlocks Projects\ChessProgr\ChessApp\ChessBoard.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1483902761 f:\personal\projects\programming\codeblocks projects\chessprogr\chessapp\include\piece.h
+	<string.h>
+	<string>
+	<iostream>
+
+1483902697 source:f:\personal\projects\programming\codeblocks projects\chessprogr\chessapp\src\piece.cpp
+	"Piece.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1534070153 source:f:\personal\projects\cpp_workspace\asciichessgame-master\chessboard.cpp
+	"ChessBoard.h"
+	<iostream>
+	<string>
+	<string.h>
+
+1534070155 f:\personal\projects\cpp_workspace\asciichessgame-master\chessboard.h
+	<string>
+	<string.h>
+	"Piece.h"
+
+1534070150 f:\personal\projects\cpp_workspace\asciichessgame-master\piece.h
+	<string.h>
+	<string>
+	<iostream>
+
+1534078352 source:f:\personal\projects\cpp_workspace\asciichessgame-master\main.cpp
+	<iostream>
+	"ChessBoard.h"
+	<cmath>
+	<windows.h>
+	<sstream>
+	"Piece.h"
+	<stdlib.h>
+
