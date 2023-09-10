@@ -2,7 +2,6 @@
 #include <iostream>
 #include <string>
 #include <string.h>
-//#include "ChessBoard.h"
 
 Piece::Piece(void){
 
@@ -16,6 +15,4 @@ Piece::Piece(string x, int y, char z)
 }
 
 Piece::~Piece()
-{
-    //dtor
-}
+{}
